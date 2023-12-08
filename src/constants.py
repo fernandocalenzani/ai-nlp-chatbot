@@ -16,3 +16,5 @@ abbreviations = {
     "can't": "cannot",
     "[-()#/@;:<>=+?.|,]": ""
 }
+
+tokens = ['<PAD>', '<EOS>', '<OUT>', '<SOS>']

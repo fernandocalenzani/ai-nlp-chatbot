@@ -1,6 +1,6 @@
 from tqdm import tqdm
-from ai_trader import AI_Trader
-from utils import state_creator, stocker_market, stocks_price_format
+from model import AI_Trader
+from preprocessing import state_creator, stocker_market, stocks_price_format
 
 
 class Controller:
